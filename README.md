@@ -8,7 +8,7 @@ This is the collection of my notes on the online course 3D pointcloud processing
 * [4. Model Fitting](#4-model-fitting)
 * [5. Deep Learning](#5-deep-learning)
 * [6. Object Detection](#6-object-detection)
-* [7. Feature Detection](#7-feature-dtection)
+* [7. Feature Detection](#7-feature-detection)
 * [8. Feature Description](#8-feature-description)
 
 
